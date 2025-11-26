@@ -22,10 +22,17 @@ Für das Programmieren des FPGA-Boards müssen die **passenden USB-/Kabeltreiber
 
 ---
 
+## Pinout & Logiklevel
+
+Die folgenden Pinout-Grafiken zeigen die Belegung des Boards bzw. des FPGA. **Alle Signale arbeiten mit 3,3 V Logikpegeln.**
+
+| Board Pinout    | FPGA Pinout          |
+| --------------- | -------------------- |
+| ![](pinout.png) | ![](pinout_fpga.png) |
+
+---
+
 ## Nutzung
 
 Nach dem Einfügen der ROMs und der Installation der Treiber kann das Projekt in der entsprechenden FPGA-Toolchain geöffnet, synthetisiert und auf das Board geladen werden.
 
----
-
-Viel Spaß mit FPGA-Pacman! 👾
