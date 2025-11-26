@@ -12,6 +12,7 @@
 -- Z80 compatible microprocessor core
 --
 -- Version : 0247
+-- Hello2
 --
 -- Copyright (c) 2001-2002 Daniel Wallner (jesus@opencores.org)
 --
